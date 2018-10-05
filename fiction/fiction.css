@@ -1,0 +1,168 @@
+body {
+  background: #58417e url('http://static.tumblr.com/5e191b74d6b249ea6509d9882f60acb8/ysihdd7/fUDmjr7bs/tumblr_static_1213942335974.jpg') top left fixed repeat;
+  font-family: Georgia;
+  font-size: 20px;
+}
+
+.aways {
+  float: right;
+  margin-top: 0.3em;
+  list-style: none;
+  display: inline;
+  padding: 0;
+}
+
+.aways li {
+  margin: 0;
+  margin-left: 0.3em;
+  display: inline;
+  padding: 0;
+}
+
+.aways li:before {
+  content: "[";
+  color: #a8a8aa;
+  margin-right: 0.1em;
+}
+
+.aways li:after {
+  content: "]";
+  color: #a8a8aa;
+  margin-left: 0.1em;
+}
+
+a {
+  color: #68A;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.content {
+  background: rgba(248, 248, 255, 0.9);
+  line-height: 1.6em;
+  padding: 0.8em 1.2em;
+
+  margin-top: 2.5em;
+  margin-bottom: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 35em;
+
+  border-radius: 10px;
+  border: 5px solid rgba(201, 201, 204, 0.3);
+}
+
+.content:hover {
+  background: rgba(248, 248, 255, 0.95);
+}
+
+h2 {
+  color: #667;
+  margin-top: 0.2em;
+  margin-left: 0.5em;
+  padding-left: 0.5em;
+  border-left: 1em solid #d8d8dd;
+  letter-spacing: 0.1em;
+}
+
+h3 {
+  color: #778;
+  margin-top: 0.2em;
+  padding-left: 0em;
+  letter-spacing: 0.1em;
+  padding-top: 1em;
+  border-bottom: 1px solid #d8d8dd;
+}
+
+hr {
+  height: 0;
+  border: none;
+  border-bottom: 1px solid #d8d8dd;
+}
+
+p {
+  margin-left: 1.3em;
+  font-size: 85%;
+  color: #666;
+}
+
+.content dl {
+  color: #666;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.content dt {
+  color: #a8a8aa;
+  text-align: right;
+}
+
+.content dt a {
+  margin-right: 3em;
+  float: left;
+}
+
+.nsfw {  
+  display: list-item;
+  list-style-position: outside;
+  list-style-type: disc;
+  list-style-image: url(nsfw.png);
+}
+
+.content dd {
+  margin-bottom: 1.5em;
+}
+
+.cat {
+  margin-top: 1em;
+}
+
+.cat:first-child {
+  margin-top: 0;
+}
+
+.cat a {
+  font-weight: bold;
+}
+
+body {
+  background-color: #f5f5f9;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  margin: 0;
+  margin-bottom: 1em;
+  background-color: #f8f8ff;
+  padding: 0.8em 1.2em;
+  line-height: 1.6em;
+  border-bottom: 5px solid rgba(201, 201, 204, 0.3);
+}
+
+h1 {
+  padding: 0.1em 1.2em;
+  margin-left: -0.5em;
+  margin-bottom: 0;
+  margin-top: 0;
+  letter-spacing: 2px;
+  color: #445;
+}
+
+.warnbubble {
+  padding: 0em;
+  border-width: 2px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4em;
+  margin-bottom: 2em;
+}
+
+.warnbubble p {
+  margin-left: 0;
+  font-size: 80%;
+  text-align: center;
+}

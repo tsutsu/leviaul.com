@@ -1,0 +1,24 @@
+body {
+  background: url(bedspread.png);
+}
+
+.post-content hr {
+  border: none;
+  margin-top: 8em;
+  margin-bottom: 8em;
+}
+
+.post-content hr:after {
+  display: block;
+  content: "\21BA";
+  color: #666;
+  text-align: center;
+}
+
+.post-dialogue-line.speaker-rarity {
+  background: #fff;
+}
+
+.post-dialogue-line.speaker-scootaloo {
+  background: #fadca9;
+}

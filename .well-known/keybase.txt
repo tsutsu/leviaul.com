@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/tsutsu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://leviaul.com
+  * I am tsutsu (https://keybase.io/tsutsu) on keybase.
+  * I have a public key ASDpqX9IQfJgw5_x9cJL52ikKcmI5Iw67U4B5VJTra0O8wo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120e9a97f4841f260c39ff1f5c24be768a429c988e48c3aed4e01e55253adad0ef30a",
+            "host": "keybase.io",
+            "kid": "0120e9a97f4841f260c39ff1f5c24be768a429c988e48c3aed4e01e55253adad0ef30a",
+            "uid": "ea6363f57fea4955a87c20f2f46ad019",
+            "username": "tsutsu"
+        },
+        "service": {
+            "hostname": "leviaul.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1471476793,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1471476776,
+        "hash": "09a04a38b57ec340f11e99fe463484194b8737ddb8123e02b728882e8e28ab04303c5ad2b492e7d6d9ed9c06913c544d04ee3fd011e97f0cb57f391dc08b4381",
+        "seqno": 586232
+    },
+    "prev": "8c1c81a267e126c3a64ef1fa664966f15284fc84d4c550c492b34bc6e6ba6d48",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6al/SEHyYMOf8fXCS+dopCnJiOSMOu1OAeVSU62tDvMKp3BheWxvYWTFAvF7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZTlhOTdmNDg0MWYyNjBjMzlmZjFmNWMyNGJlNzY4YTQyOWM5ODhlNDhjM2FlZDRlMDFlNTUyNTNhZGFkMGVmMzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTlhOTdmNDg0MWYyNjBjMzlmZjFmNWMyNGJlNzY4YTQyOWM5ODhlNDhjM2FlZDRlMDFlNTUyNTNhZGFkMGVmMzBhIiwidWlkIjoiZWE2MzYzZjU3ZmVhNDk1NWE4N2MyMGYyZjQ2YWQwMTkiLCJ1c2VybmFtZSI6InRzdXRzdSJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoibGV2aWF1bC5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE2In0sImN0aW1lIjoxNDcxNDc2NzkzLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NzE0NzY3NzYsImhhc2giOiIwOWEwNGEzOGI1N2VjMzQwZjExZTk5ZmU0NjM0ODQxOTRiODczN2RkYjgxMjNlMDJiNzI4ODgyZThlMjhhYjA0MzAzYzVhZDJiNDkyZTdkNmQ5ZWQ5YzA2OTEzYzU0NGQwNGVlM2ZkMDExZTk3ZjBjYjU3ZjM5MWRjMDhiNDM4MSIsInNlcW5vIjo1ODYyMzJ9LCJwcmV2IjoiOGMxYzgxYTI2N2UxMjZjM2E2NGVmMWZhNjY0OTY2ZjE1Mjg0ZmM4NGQ0YzU1MGM0OTJiMzRiYzZlNmJhNmQ0OCIsInNlcW5vIjoxMCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECDkPdwEg37ylHm1mopj9pLV6ra9sU+sEzc7ehGlYLE9tojZHUcc6Zn2gJRYtyXODMHJMdpSDUJLUo3rdQ98WQAqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgku26t26PFcstTLJYJHnFKJ436PZKi1G+CawK6Kn8InOjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tsutsu
+
+==================================================================
